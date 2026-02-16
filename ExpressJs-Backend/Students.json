@@ -1,0 +1,33 @@
+[
+  {
+    "id": 1,
+    "name": "Shrey",
+    "branch": "CSE"
+  },
+  {
+    "id": 2,
+    "name": "Harsh",
+    "branch": "CIVIL"
+  },
+  {
+    "id": 3,
+    "name": "madafakaa",
+    "branch": "MECHANICAL"
+  },
+  {
+    "id": 4,
+    "name": "hickdead",
+    "branch": "CSE"
+  },
+  {
+    "id": 5,
+    "name": "sharab",
+    "branch": "CSE"
+  },
+  [],
+  {
+    "id": null,
+    "name": "bukhabikhari",
+    "branch": "CSE"
+  }
+]
