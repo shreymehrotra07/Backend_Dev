@@ -1,6 +1,0 @@
-
-Ticket ID: TKT-84919
-Name: Shrey
-Issue: LoginFail
-Priority: high
-----------------------
